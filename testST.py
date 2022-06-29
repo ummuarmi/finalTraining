@@ -13,3 +13,5 @@ This is normal text.
 
 st.write("#### this is a code block:")
 st.code("import pandas as pd")
+
+st.image("https://github.com/ummuarmi/finalTraining/blob/main/airasia-feat-logo.jpeg")
